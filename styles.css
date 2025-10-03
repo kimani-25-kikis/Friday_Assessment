@@ -17,6 +17,7 @@ body{
     
     padding: 20px;
     font-family: rubik;
+    font-weight: 500;
     
 }
 .item1{
@@ -252,6 +253,7 @@ body{
     flex-direction: row;
     margin-left: 200px;
     width: 50px;
+    height: 35px;
 }
 .social{
    background-color: hsl(235, 46%, 20%);
@@ -298,6 +300,11 @@ body{
         flex-direction: column;
 
     }
+}
+
+p,h2,h5{
+    font-family: rubik;
+    font-weight: 400;
 }
 
 
